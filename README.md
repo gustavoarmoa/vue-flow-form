@@ -36,7 +36,7 @@ After checking the prerequisites, follow these simple steps to install and use V
 
 ```shell
 # clone the repo
-$ git clone https://github.com/ditdot-dev/vue-flow-form.git myproject
+$ git clone git@github.com:gustavoarmoa/vue-flow-form.git
 
 # go into app's directory and install dependencies:
 $ cd myproject
